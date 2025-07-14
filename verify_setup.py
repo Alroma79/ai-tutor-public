@@ -44,9 +44,9 @@ def check_dependencies():
         'langchain',
         'langchain_openai',
         'asyncpg',
-        'python_dotenv',
+        'dotenv',
         'PyPDF2',
-        'python_docx'
+        'docx'
     ]
     
     missing_packages = []
