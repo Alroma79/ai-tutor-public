@@ -30,12 +30,20 @@ Originally designed for a real-world classroom experiment at NOVA IMS, this proj
 
 ---
 
+## 🌐 Live Demo
+
+**Try the AI Tutor now:** [https://ai-agent-production-d1cc.up.railway.app](https://ai-agent-production-d1cc.up.railway.app)
+
+Experience the full multi-agent tutoring system without any setup required. The demo includes all four agents (Mentor, Peer, Progress, Evaluator) and supports file uploads for pitch evaluation.
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-tutor-public.git
+git clone https://github.com/Alroma79/ai-tutor-public.git
 cd ai-tutor-public
 ```
 
@@ -248,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues:
 
-1. Check the [Issues](https://github.com/YOUR_USERNAME/ai-tutor-public/issues) page
+1. Check the [Issues](https://github.com/Alroma79/ai-tutor-public/issues) page
 2. Create a new issue with detailed information
 3. Include logs and environment details
 
